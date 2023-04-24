@@ -83,6 +83,22 @@ body {
     margin-bottom: 2rem;
   }
 
+  #sobre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+
+  #sobre a {
+    color: #8e04f0;
+    
+  }
+
+  #sobre a:hover {
+    color: #8e04f07a;
+
+  }
   .sobre {
     display: flex;
     justify-content: center;
